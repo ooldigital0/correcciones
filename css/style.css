@@ -157,8 +157,17 @@ video {
   transform: translate(-50%, -50%);
   width: 310px;
 }
-
-.titulo-ingresar, .boton-ingresar, .titulo-ingresar__dos {
+.boton-ingresar {
+  color: #fff;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1.9em;
+  font-weight: lighter;
+  font-family: "Cinzel-Medium"
+}
+.titulo-ingresar, .titulo-ingresar__dos {
   color: #fff;
   position: absolute;
   top: 60%;
@@ -199,6 +208,7 @@ video {
 .boton-ingresar a {
   color: white;
   padding: 0 6rem;
+  font-family: "Cinzel-Medium"
 }
 
 

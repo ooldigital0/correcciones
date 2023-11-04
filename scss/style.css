@@ -1,14 +1,14 @@
 @font-face {
   font-family: "Lora-Regular";
-  src: url(../../public/fonts/Lora-Regular.ttf);
+  src: url(../img/fonts/Lora-Regular.ttf);
 }
 @font-face {
   font-family: "Lora-Italic";
-  src: url(../../public/fonts/Lora-Italic.ttf);
+  src: url(../img/fonts/Lora-Italic.ttf);
 }
 @font-face {
   font-family: "Cinzel-Medium";
-  src: url(../../public/fonts/Cinzel-Medium.ttf);
+  src: url(../img/fonts/Cinzel-Medium.ttf);
 }
 .container {
   max-width: 1440px;
